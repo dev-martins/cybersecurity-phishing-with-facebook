@@ -18,7 +18,7 @@
 
 ### Resutados
 
-![Alt text](./credentials.png "Optional title")
+![Alt text](./credentials.PNG "Optional title")
 
 
 ### Porque o não foi realizado para capturar credenciais no Facebook 
